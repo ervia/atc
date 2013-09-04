@@ -17,7 +17,7 @@
   </metadata>
   <manifest>
     <item id="toc" properties="nav" href="toc.xhtml" media-type="application/xhtml+xml"/>
-    <item id="copyright" href="copyright.xhtml" media-type="application/xhtml+xml"/>
+    <item href="content/fd25c72f-67b3-40f0-b108-8aa824687c06" id="content/fd25c72f-67b3-40f0-b108-8aa824687c06" media-type="application/xhtml+xml"/><item id="copyright" href="copyright.xhtml" media-type="application/xhtml+xml"/>
 <!--
     <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
     <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
